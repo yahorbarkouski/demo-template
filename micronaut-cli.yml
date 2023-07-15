@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.xin
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle_kotlin
+features: [app-name, assertj, github-workflow-graal-docker-registry, graalvm, gradle, http-client-test, java, java-application, jdbc-hikari, jooq, junit, liquibase, logback, micronaut-aot, micronaut-build, netty-server, openapi, postgres, readme, security-annotations, security-oauth2, serialization-jackson, shade, swagger-ui, testcontainers, yaml, yaml-build]
